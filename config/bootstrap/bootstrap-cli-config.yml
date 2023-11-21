@@ -19,6 +19,7 @@ bootstrap:
     # naming of Groups, Datasets and RAWDBs only.
     # All given feature values are reflecting the default values,
     # to support a smooth v1 migration.
+    #
     # Recommended values for a new v2-project are given as comments!
 
 
