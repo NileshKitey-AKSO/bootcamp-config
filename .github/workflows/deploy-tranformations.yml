@@ -1,14 +1,7 @@
 ---
 name: Deploy transformations
 
-on:
-    push:
-        branches: 
-            - main
-            - bootcampconfignew
-        paths:
-            - config/transformations/**
-            - .github/workflows/deploy-transformations.yml
+on: push
 
 jobs:
     deploy:
