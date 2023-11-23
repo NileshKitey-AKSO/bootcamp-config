@@ -5,6 +5,7 @@ on:
     push:
         branches: 
             - main
+            - bootcampconfignew
         paths:
             - config/transformations/**
             - .github/workflows/deploy-transformations.yml
