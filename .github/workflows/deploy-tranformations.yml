@@ -2,9 +2,6 @@
 name: Deploy transformations
 
 on: push
-        paths:
-            - config/transformations/**
-            - .github/workflows/deploy-transformations.yml
 
 jobs:
     deploy:
